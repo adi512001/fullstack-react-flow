@@ -1,0 +1,42 @@
+[
+  {
+    "client": "cart_service",
+    "server": "log_service"
+  },
+  {
+    "client": "cart_service",
+    "server": "log_service"
+  },
+  {
+    "client": "recommendations_service",
+    "server": "log_service"
+  },
+  {
+    "client": "recommendations_service",
+    "server": "log_service"
+  },
+  {
+    "client": "cart_service",
+    "server": "user_service"
+  },
+  {
+    "client": "cart_service",
+    "server": "orders_service"
+  },
+  {
+    "client": "cart_service",
+    "server": "payments_service"
+  },
+  {
+    "client": "ads_service",
+    "server": "cart_service"
+  },
+  {
+    "client": "user_service",
+    "server": "cart_service"
+  },
+  {
+    "client": "recommendations_service",
+    "server": "cart_service"
+  }
+]

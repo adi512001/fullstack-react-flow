@@ -1,0 +1,26 @@
+[
+  {
+    "id": "service1",
+    "sendingToServices": ["service2"]
+  },
+  {
+    "id": "service2",
+    "sendingToServices": ["service3", "service4", "service5"]
+  },
+  {
+    "id": "service3",
+    "sendingToServices": []
+  },
+  {
+    "id": "service4",
+    "sendingToServices": []
+  },
+  {
+    "id": "service5",
+    "sendingToServices": []
+  },
+  {
+    "id": "service6",
+    "sendingToServices": ["service2"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "service1",
+    "label": "ads_service"
+  },
+  {
+    "id": "service2",
+    "label": "cart_service"
+  },
+  {
+    "id": "service3",
+    "label": "log_service"
+  },
+  {
+    "id": "service4",
+    "label": "db_service"
+  },
+  {
+    "id": "service5",
+    "label": "payments_service"
+  },
+  {
+    "id": "service6",
+    "label": "user_service"
+  }
+]
