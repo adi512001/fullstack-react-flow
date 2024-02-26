@@ -15,7 +15,6 @@ The graph shows all network connections between different microservices.
 # Local run
 1. `cd apiserver` `npm install` `node server.js`
 2. `cd webapp` `npm install` `npm start`
-3. Run this (frontend) project locally with: `npm start`
 4. View the project locally at http://localhost:3000
 
 ![image info](./pictures/services-graph.png)
