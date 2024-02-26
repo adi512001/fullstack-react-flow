@@ -1,10 +1,8 @@
-# Full stack exercise
+# Full stack app using REST express server, React Flow and React Autosuggest
 
-Hi!
-
-The goal in this exercise is to design and develop a basic API server and a React page that presents a flow graph to the user of a microservice environment.
-
-In a microservice environment, microservices send or receive data to each other. In this exercise, we implement a basic flow graph page that shows all network connections between different microservices.
+A basic API server and a React page that presents a flow graph to the user of a microservice environment.\n
+In a microservice environment, microservices send or receive data to each other.
+The graph shows all network connections between different microservices.
 
 ![image info](./pictures/services-graph.png)
 
